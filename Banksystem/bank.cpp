@@ -9,7 +9,10 @@ protected:
     double balance;
 
 public:
-    Bank() : accountNumber(0), balance(0.0) {}
+ Bank() {
+        accountNumber = 0;
+        balance = 0.0;
+    }
     
     void createAccount() {
         cout << "Enter your account number: ";
