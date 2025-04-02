@@ -1,1 +1,1 @@
-Welcome to the C++ Patterns Repository! <br> This repository contains a collection of common and useful patterns implemented in C++. 
+Welcome to the C++  Repository! <br> This repository contains a collection of common and useful patterns and programs implemented in C++. 
